@@ -1,6 +1,6 @@
-# 🛰️ RumorRadar — Real-Time Misinformation Detection System
+# 🛰️ RumorRadar : Real-Time Misinformation Detection System
 
-## Local file was corrupt, re-building!
+## Local file was corrupt, re-building! 
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Contributions are welcome! This project is open to improvements and new ideas.
 
 ## 👨‍💻 Author
 
-**Bivraj** — Computer Science Engineer | AI & Systems Enthusiast
+**Bivraj** A Computer Science Student | AI & Design Enthusiast
 
 Focused on:
 - AI-driven systems
