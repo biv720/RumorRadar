@@ -1,5 +1,7 @@
 # 🛰️ RumorRadar — Real-Time Misinformation Detection System
 
+## Local file was corrupt, re-building!
+
 <div align="center">
 
 ![RumorRadar Banner](https://media.discordapp.net/attachments/758945965939359745/1455270964274266134/image.png?ex=69541e33&is=6952ccb3&hm=ba667225ee6eaa9b8a8e256d6b9bd6f20fd422cd2e515b6a336330cb6bb0b317&=&format=webp&quality=lossless&width=1451&height=367)
@@ -17,7 +19,7 @@
 
 ## ⚠️ Project Status
 
-**🟡 Actively under development**
+**🟡 Actively under development || REBUILDING**
 
 Some features are limited due to API rate limits and compute constraints. See [Limitations](#️-important-note-limitations) for details.
 
