@@ -9,8 +9,8 @@
 **A real-time misinformation monitoring and alerting system built using Kafka, Python, and NLP. Analyzes streaming text data to detect potential rumors, emotionally charged narratives, and emerging misinformation trends with explainable alerts.**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-orange.svg)](https://kafka.apache.org/)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-yellow.svg)]()
+[![Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-yellow.svg)](https://kafka.apache.org/)
+[![Status](https://img.shields.io/badge/Status-Rebuilding-orange.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
