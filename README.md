@@ -19,7 +19,7 @@
 
 ## ⚠️ Project Status
 
-**🟡 Actively under development || REBUILDING**
+**🟡 Actively under development || REBUILDING [Read Disclaimer](#-disclaimer) **
 
 Some features are limited due to API rate limits and compute constraints. See [Limitations](#️-important-note-limitations) for details.
 
@@ -229,6 +229,8 @@ Focused on:
 ---
 
 ## 📌 Disclaimer
+
+Current uploaded files are very old version, the v2 files are corrupt and is being worked on.
 
 This project is intended for **educational and research purposes only**. 
 
