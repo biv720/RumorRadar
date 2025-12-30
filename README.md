@@ -19,7 +19,7 @@
 
 ## ⚠️ Project Status
 
-**🟡 Actively under development || REBUILDING [Read Disclaimer](#-disclaimer) **
+**🟡 Actively under development || REBUILDING [Read Disclaimer](#-disclaimer)**
 
 Some features are limited due to API rate limits and compute constraints. See [Limitations](#️-important-note-limitations) for details.
 
