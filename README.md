@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![RumorRadar Banner](https://media.discordapp.net/attachments/758945965939359745/1455270964274266134/image.png?ex=69541e33&is=6952ccb3&hm=ba667225ee6eaa9b8a8e256d6b9bd6f20fd422cd2e515b6a336330cb6bb0b317&=&format=webp&quality=lossless&width=1451&height=367)
+![RumorRadar Banner](https://cdn.discordapp.com/attachments/758945965939359745/1455270964274266134/image.png?ex=6a5dc473&is=6a5c72f3&hm=e7b186635eb67998bebb85155ca8339932b8d443df8673386d898876af549b8e)
 
 **A real-time misinformation monitoring and alerting system built using Kafka, Python, and NLP. Analyzes streaming text data to detect potential rumors, emotionally charged narratives, and emerging misinformation trends with explainable alerts.**
 
